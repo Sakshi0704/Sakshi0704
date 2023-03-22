@@ -1,6 +1,6 @@
 <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
-<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nitish Mandal</h1>
+<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sakshi</h1>
 
 <h3><samp><strong>I'm currently learning Full-Stack Web Development. I’m looking to collaborate projects. I like to design websites and solving problems that I face while creating it. </strong></samp></h3> 
 
@@ -9,14 +9,14 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-<!-- - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br> -->
+<!-- - 🧠 Callme: ***She/Her*** or ***TeamWorker*** 😊 <br> -->
 
 - 🛠 I’m currently learning about **JAVA**🥰<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
-- :telescope: Know more about me **[Portfolio](https://nitishmandal01.github.io/)**
+- :telescope: Know more about me **[Portfolio](https://Sakshi0704.github.io/)**
 
 
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Just do it!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -30,15 +30,15 @@
  
  
  <p align="left">
-  <a href="https://www.linkedin.com/in/thenitishmandal/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
-  <a title="neelgiri65@gmail.com" href="mailto:neelgiri65@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&emsp;
-  <a href="https://wa.me/+919718299580" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>&emsp;
-<!--   <a href="https://nitishmandal01.github.io" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>&emsp; -->
+  <a href="https://www.linkedin.com/in/sakshi0704/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
+  <a title="sakshichoudhary0704@gmail.com" href="mailto:neelgiri65@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&emsp;
+  <a href="https://wa.me/+919958090196" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>&emsp;
+<!--   <a href="https://Sakshi0704.github.io" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>&emsp; -->
   
 </p>
 
 
-<!-- <img src ="https://github.com/nitishmandal01/blob/master/Images/imhd.gif?raw=true" align="right" width="260" height="260" /> -->
+<!-- <img src ="https://github.com/Sakshi0704/blob/master/Images/imhd.gif?raw=true" align="right" width="260" height="260" /> -->
 
 <br>
 <br>
@@ -94,7 +94,7 @@
 
 
 <p>
-<a href="https://github.com/nitishmandal01"><span>
+<a href="https://github.com/Sakshi0704"><span>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishmandal01&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/><br/><br/><br/><br/><br/><br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nitishmandal01&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
@@ -103,7 +103,7 @@
 <hr clear="both"> 
  <br/><br/><br/>
 <p align="center">
-<a href="https://github.com/nitishmandal01"><span>
+<a href="https://github.com/Sakshi0704"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitishmandal01&theme=dracula" />
 </span></a> </p>
 
