@@ -74,7 +74,7 @@
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{nitishmandal01}/count.svg" alt="nitishmandal01 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Sakshi0704}/count.svg" alt="Sakshi0704 :: Visitor's Count" /></p>
 
 <hr>
 
@@ -89,14 +89,14 @@
 
 
 <p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishmandal01&theme=chartreuse-dark"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi0704&theme=chartreuse-dark"  />
 </p>
 
 
 <p>
 <a href="https://github.com/Sakshi0704"><span>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishmandal01&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/><br/><br/><br/><br/><br/><br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nitishmandal01&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakshi0704&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/><br/><br/><br/><br/><br/><br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sakshi0704&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/>
@@ -104,16 +104,16 @@
  <br/><br/><br/>
 <p align="center">
 <a href="https://github.com/Sakshi0704"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitishmandal01&theme=dracula" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi0704&theme=dracula" />
 </span></a> </p>
 
 
  <br/>
 GitHub Cup's  
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=nitishmandal01&theme=vue" alt=""/> </p>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Sakshi0704&theme=vue" alt=""/> </p>
  <br/>
  
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nitishmandal01&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  -->
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sakshi0704&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  -->
 
 
 <hr clear="both">
