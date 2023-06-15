@@ -88,6 +88,22 @@
 
 
 
+## 📊 GitHub Stats:
+<p align="center">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi0704&theme=gotham&hide_border=true&layout=compact&langs_count=5"   width="35%" alt="Sakshi" align="left"></a>
+</p>
+
+<!-- ![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-vishalanand&theme=gotham&hide_border=true&layout=compact&langs_count=6)
+![github-stats1](https://github-readme-stats.vercel.app/api?username=Im-vishalanand&theme=gotham&show_icons=true&count_private=true&hide_border=true)
+![github-stats2](https://github-readme-streak-stats.herokuapp.com?user=Im-vishalanand&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) -->
+
+<p align="right">
+<a href="https://github.com/Sakshi0704?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Sakshi0704&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Sakshi github-readme-stats"/></a>
+<a href="https://github.com/Sakshi0704?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Im-vishalanand&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Sakshi github-readme-streak-stats"/></a>
+</p>
+
+
+<!-- ********************************************* -->
 <p align="left" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi0704&theme=chartreuse-dark"  />
 </p>
@@ -114,7 +130,6 @@ GitHub Cup's
  <br/>
  
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sakshi0704&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  -->
-
 
 <hr clear="both">
 
