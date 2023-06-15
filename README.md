@@ -18,6 +18,15 @@
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
 - :telescope: Know more about me **[Portfolio](https://Sakshi0704.github.io/)**
 
+- :zap: In my free time, I read tech articles, read novels
+- 🌱 I’m currently learning **Java, SpringBoot, Hibernate**
+- 👯 I am also looking for some **Open Source Oppurtunities**
+- 👨🏻‍🎓 Visit my **[Portfolio](https://Sakshi0704.github.io/)**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/Sakshi0704?tab=repositories)**
+- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1nsnlYP3nJ9X8FGQaom0rBlRMCfC4tB03/view?usp=sharing)**
+-  💬 Ask me about **Java, SpringBoot, Hibernate, HTML, CSS, JavaScript**
+- 📫 How to reach me **banichoudhary0704@gmail.com**
+
 
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Just do it!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
