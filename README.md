@@ -68,19 +68,20 @@
 
 
 
-## 📊 GitHub Stats:
-<p align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi0704&theme=gotham&hide_border=true&layout=compact&langs_count=5"   width="35%" alt="Sakshi" align="left"></a>
-</p>
+## 📊 GitHub Stats :
 
-<!-- ![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-vishalanand&theme=gotham&hide_border=true&layout=compact&langs_count=6)
-![github-stats1](https://github-readme-stats.vercel.app/api?username=Im-vishalanand&theme=gotham&show_icons=true&count_private=true&hide_border=true)
-![github-stats2](https://github-readme-streak-stats.herokuapp.com?user=Im-vishalanand&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) -->
+<div align="center">
+<a href="https://github.com/sahu-neha?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=sahu-neha&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="46%" alt="sahu-neha github-readme-stats"/></a>
+<a href="https://github.com/sahu-neha?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahu-neha&theme=gotham&hide_border=true"  width="46%" alt="sahu-neha github-readme-streak-stats"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-neha&theme=gotham&hide_border=true&langs_count=6&count_private=true&layout=compact" alt="sahu-neha" width="43%" align="center"></a> 
+</div>
 
-<p align="right">
-<a href="https://github.com/Sakshi0704?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Sakshi0704&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Sakshi github-readme-stats"/></a>
-<a href="https://github.com/Sakshi0704?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sakshi0704&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Sakshi github-readme-streak-stats"/></a>
-</p>
+</br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahu-neha&label=Profile%20views&color=0e75b6&style=flat" alt="sahu-neha" /> </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+
 
 
 <!-- ********************************************* -->
@@ -104,3 +105,5 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
   
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting!+😊&font=Fira%20Code&center=true&width=700&height=50&weight=600&size=18&duration=2000&pause=2000"> </p>
