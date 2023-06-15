@@ -71,13 +71,13 @@
 ## 📊 GitHub Stats :
 
 <div align="center">
-<a href="https://github.com/sahu-neha?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=sahu-neha&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="46%" alt="sahu-neha github-readme-stats"/></a>
-<a href="https://github.com/sahu-neha?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahu-neha&theme=gotham&hide_border=true"  width="46%" alt="sahu-neha github-readme-streak-stats"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-neha&theme=gotham&hide_border=true&langs_count=6&count_private=true&layout=compact" alt="sahu-neha" width="43%" align="center"></a> 
+<a href="https://github.com/Sakshi0704?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Sakshi0704&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="46%" alt="Sakshi0704 github-readme-stats"/></a>
+<a href="https://github.com/Sakshi0704?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi0704&theme=gotham&hide_border=true"  width="46%" alt="Sakshi github-readme-streak-stats"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi0704&theme=gotham&hide_border=true&langs_count=6&count_private=true&layout=compact" alt="Sakshi" width="43%" align="center"></a> 
 </div>
 
 </br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahu-neha&label=Profile%20views&color=0e75b6&style=flat" alt="sahu-neha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahu-neha&label=Profile%20views&color=0e75b6&style=flat" alt="Sakshi" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
