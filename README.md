@@ -10,14 +10,6 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 <!-- - 🧠 Callme: ***She/Her*** or ***TeamWorker*** 😊 <br> -->
-
-- 🛠 I’m currently learning about **JAVA**🥰<br>
-- 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
-- ⚡ I’m looking for help with anything **I am currently learning! 😅**.
-- 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
-- ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
-- :telescope: Know more about me **[Portfolio](https://Sakshi0704.github.io/)**
-
 - :zap: In my free time, I read tech articles, read novels
 - 🌱 I’m currently learning **Java, SpringBoot, Hibernate**
 - 👯 I am also looking for some **Open Source Oppurtunities**
