@@ -15,7 +15,7 @@
 - 👯 I am also looking for some **Open Source Oppurtunities**
 - 👨🏻‍🎓 Visit my **[Portfolio](https://Sakshi0704.github.io/)**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/Sakshi0704?tab=repositories)**
-- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1nsnlYP3nJ9X8FGQaom0rBlRMCfC4tB03/view?usp=sharing)**
+- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1WgetZ6ZpbxgOE-w6EvRjpTydytzbm4kS/view?usp=sharing)**
 -  💬 Ask me about **Java, SpringBoot, Hibernate, HTML, CSS, JavaScript**
 - 📫 How to reach me **banichoudhary0704@gmail.com**
 
@@ -79,7 +79,7 @@
 
 <p align="right">
 <a href="https://github.com/Sakshi0704?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Sakshi0704&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Sakshi github-readme-stats"/></a>
-<a href="https://github.com/Sakshi0704?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Im-vishalanand&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Sakshi github-readme-streak-stats"/></a>
+<a href="https://github.com/Sakshi0704?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sakshi0704&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Sakshi github-readme-streak-stats"/></a>
 </p>
 
 
