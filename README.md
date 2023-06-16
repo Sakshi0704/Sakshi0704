@@ -8,7 +8,8 @@
 
 ![web5-removebg-preview](https://github.com/Sakshi0704/Sakshi0704/assets/112800906/cf99029d-151d-439d-97f2-133834cb4018)
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
+<img src="[https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif](https://github.com/Sakshi0704/Sakshi0704/assets/112800906/cf99029d-151d-439d-97f2-133834cb4018)" width="30px">&nbsp;
 
 ***About me ....***
 
