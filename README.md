@@ -1,6 +1,7 @@
 <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
-<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sakshi</h1>
+<!-- <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sakshi</h1> -->
+<h1 align="left" >Hey there <img src="(https://github.com/Sakshi0704/Sakshi0704/assets/112800906/cf99029d-151d-439d-97f2-133834cb4018)" width="30px">, I'm Sakshi</h1>
 
 <h3><samp><strong>I'm currently learning Full-Stack Web Development. I’m looking to collaborate projects. I like to design websites and solving problems that I face while creating it. </strong></samp></h3> 
 
@@ -8,7 +9,7 @@
 
 <!-- ![web5-removebg-preview](https://github.com/Sakshi0704/Sakshi0704/assets/112800906/cf99029d-151d-439d-97f2-133834cb4018) -->
 
-<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <img src="https://github.com/Sakshi0704/Sakshi0704/assets/112800906/cf99029d-151d-439d-97f2-133834cb4018" width="30px">&nbsp;
 
 ***About me ....***
