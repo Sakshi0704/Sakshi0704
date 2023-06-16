@@ -1,5 +1,5 @@
 <!-- <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" /> -->
-<img src ="https://github.com/Sakshi0704/Sakshi0704/assets/112800906/cf99029d-151d-439d-97f2-133834cb4018" align="right" width="300" height="300" />
+<img src ="https://github.com/Sakshi0704/Sakshi0704/assets/112800906/cf99029d-151d-439d-97f2-133834cb4018" align="right" width="500" height="300" />
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sakshi</h1>
 <!-- <h1 align="left" >Hey there <img src="(https://github.com/Sakshi0704/Sakshi0704/assets/112800906/cf99029d-151d-439d-97f2-133834cb4018)" width="30px">, I'm Sakshi</h1> -->
 
