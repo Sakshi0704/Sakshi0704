@@ -19,7 +19,11 @@
 - 💬 Ask me about **Java, SpringBoot, Hibernate, HTML, CSS, JavaScript**
 - 📫 How to reach me **banichoudhary0704@gmail.com**
 
+
+ <hr>
+ 
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Just do it!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+
 
  <hr>
 
