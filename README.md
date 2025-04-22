@@ -2,7 +2,13 @@
 <img src ="https://github.com/Sakshi0704/Sakshi0704/assets/112800906/cf99029d-151d-439d-97f2-133834cb4018" align="right" width="500" height="300" />
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sakshi</h1>
 
-<h3><samp><strong>I'm currently learning Full-Stack Web Development. I’m looking to collaborate projects. I like to design websites and solving problems that I face while creating it. </strong></samp></h3> 
+<h3>
+  <samp>
+    <strong>
+      I'm currently working as a Software Backend Developer. I’m looking to collaborate on projects to enhance my full-stack web development skills. I enjoy designing websites and solving the challenges I encounter while building them.
+    </strong>
+  </samp>
+</h3>
 
 <hr>
 
