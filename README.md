@@ -23,7 +23,7 @@
 - 👨‍💻 All of my projects are available at **[here](https://github.com/Sakshi0704?tab=repositories)**
 - 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1WgetZ6ZpbxgOE-w6EvRjpTydytzbm4kS/view?usp=sharing)**
 - 💬 Ask me about **Java, SpringBoot, Hibernate, HTML, CSS, JavaScript**
-- 📫 How to reach me **banichoudhary0704@gmail.com**
+- 📫 How to reach me **sakshichoudhary0074@gmail.com**
 
 
  <hr>
