@@ -23,9 +23,9 @@
 - 🧠 **Specialization:** Enterprise Backend Development | Microservices Architecture | Spring Boot
 - ⚡ **Achievements:** Fixed critical security vulnerabilities | Optimized Kafka pipelines (40% improvement) | Built 20+ REST APIs
 - 🏥 **Healthcare Tech:** Integrated ABHA for 1000+ patient records | Sickle Cell Disease Management System
-- 👨🏻‍🎓 Visit my **[Portfolio](https://Sakshi0704.github.io/)**
+- 👨🏻‍🎓 Visit my **[Portfolio](https://sakshi-choudhary-portfolio.netlify.app/)**
 - 👨‍💻 Check out my **[Projects](https://github.com/Sakshi0704?tab=repositories)**
-- 🪢 **[My Resume](https://drive.google.com/file/d/1WgetZ6ZpbxgOE-w6EvRjpTydytzbm4kS/view?usp=sharing)**
+- 🪢 **[My Resume](https://drive.google.com/file/d/1lJMv5640oqSWq8DPNzOHEMa7D4zQho8y/view?usp=drive_link)**
 - 💬 Ask me about **Java 17, Spring Boot, Spring Security, Microservices, REST APIs, PostgreSQL, AWS, Kafka, OAuth2.0, JWT**
 - 📫 Reach me at **sakshichoudhary0074@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/sakshi0704/)**
 
