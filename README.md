@@ -128,4 +128,4 @@
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting!+😊&font=Fira%20Code&center=true&width=700&height=50&weight=600&size=18&duration=2000&pause=2000" alt="Thank you message" /> </p>
+<p align="center"><strong>Thanks for visiting 😊</strong></p>
