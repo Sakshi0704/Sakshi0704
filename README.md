@@ -128,4 +128,4 @@
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
 
-<p align="center"><strong>Thanks for visiting 😊</strong></p>
+<p align="center"><strong>Thanks for visiting.</strong></p>
